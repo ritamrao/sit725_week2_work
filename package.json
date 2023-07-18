@@ -1,0 +1,23 @@
+{
+  "name": "sit725_week2_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritamrao/sit725_week2_workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritamrao/sit725_week2_workshop/issues"
+  },
+  "homepage": "https://github.com/ritamrao/sit725_week2_workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
